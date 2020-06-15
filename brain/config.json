@@ -1,0 +1,9 @@
+{
+ "com":"Ln Emojis &#x1f911;&#x1f3e7;",
+ "timezone":"Africa/Nairobi",
+ "host":"./",
+ "devMode":true,
+ "templates":"tmplt",
+ "mainTmplt":"index",
+ "tmpltExt":".htm"
+}
